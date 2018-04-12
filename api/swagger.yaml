@@ -12,7 +12,7 @@ info:
   license:
     name: "MIT"
     url: "http://opensource.org/licenses/MIT"
-host: "rcis18-petstore-mds-martindacos.c9users.io"
+host: "rcis18-petstore-mds.herokuapp.com"
 schemes:
 - "https"
 consumes:
